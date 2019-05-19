@@ -1,0 +1,761 @@
+﻿Position,Week,Team,Points
+1,1,Liverpool FC,3
+2,1,Chelsea FC,3
+3,1,AFC Bournemouth,3
+4,1,Crystal Palace,3
+5,1,Manchester City,3
+6,1,Watford FC,3
+7,1,Manchester United,3
+8,1,Tottenham Hotspur,3
+9,1,Everton FC,1
+10,1,Wolverhampton Wanderers,1
+11,1,Burnley FC,1
+12,1,Southampton FC,1
+13,1,Leicester City,0
+14,1,Newcastle United,0
+15,1,Arsenal FC,0
+16,1,Brighton & Hove Albion,0
+17,1,Cardiff City,0
+18,1,Fulham FC,0
+19,1,Huddersfield Town,0
+20,1,West Ham United,0
+1,10,Manchester City,26
+2,10,Liverpool FC,26
+3,10,Chelsea FC,24
+4,10,Arsenal FC,22
+5,10,Tottenham Hotspur,21
+6,10,AFC Bournemouth,20
+7,10,Watford FC,19
+8,10,Manchester United,17
+9,10,Everton FC,15
+10,10,Wolverhampton Wanderers,15
+11,10,Brighton & Hove Albion,14
+12,10,Leicester City,13
+13,10,West Ham United,8
+14,10,Crystal Palace,8
+15,10,Burnley FC,8
+16,10,Southampton FC,7
+17,10,Cardiff City,5
+18,10,Fulham FC,5
+19,10,Newcastle United,3
+20,10,Huddersfield Town,3
+1,11,Manchester City,29
+2,11,Chelsea FC,27
+3,11,Liverpool FC,27
+4,11,Tottenham Hotspur,24
+5,11,Arsenal FC,23
+6,11,AFC Bournemouth,20
+7,11,Manchester United,20
+8,11,Watford FC,19
+9,11,Everton FC,18
+10,11,Leicester City,16
+11,11,Wolverhampton Wanderers,15
+12,11,Brighton & Hove Albion,14
+13,11,West Ham United,11
+14,11,Crystal Palace,8
+15,11,Burnley FC,8
+16,11,Southampton FC,7
+17,11,Newcastle United,6
+18,11,Huddersfield Town,6
+19,11,Cardiff City,5
+20,11,Fulham FC,5
+1,12,Manchester City,32
+2,12,Liverpool FC,30
+3,12,Chelsea FC,28
+4,12,Tottenham Hotspur,27
+5,12,Arsenal FC,24
+6,12,AFC Bournemouth,20
+7,12,Watford FC,20
+8,12,Manchester United,20
+9,12,Everton FC,19
+10,12,Leicester City,17
+11,12,Wolverhampton Wanderers,16
+12,12,Brighton & Hove Albion,14
+13,12,West Ham United,12
+14,12,Newcastle United,9
+15,12,Burnley FC,9
+16,12,Crystal Palace,8
+17,12,Southampton FC,8
+18,12,Cardiff City,8
+19,12,Huddersfield Town,7
+20,12,Fulham FC,5
+1,13,Manchester City,35
+2,13,Liverpool FC,33
+3,13,Tottenham Hotspur,30
+4,13,Chelsea FC,28
+5,13,Arsenal FC,27
+6,13,Everton FC,22
+7,13,Manchester United,21
+8,13,AFC Bournemouth,20
+9,13,Watford FC,20
+10,13,Leicester City,18
+11,13,Wolverhampton Wanderers,16
+12,13,Brighton & Hove Albion,15
+13,13,Newcastle United,12
+14,13,West Ham United,12
+15,13,Huddersfield Town,10
+16,13,Crystal Palace,9
+17,13,Burnley FC,9
+18,13,Southampton FC,8
+19,13,Cardiff City,8
+20,13,Fulham FC,8
+1,14,Manchester City,38
+2,14,Liverpool FC,36
+3,14,Chelsea FC,31
+4,14,Arsenal FC,30
+5,14,Tottenham Hotspur,30
+6,14,Everton FC,22
+7,14,Manchester United,22
+8,14,Leicester City,21
+9,14,AFC Bournemouth,20
+10,14,Watford FC,20
+11,14,Brighton & Hove Albion,18
+12,14,Wolverhampton Wanderers,16
+13,14,West Ham United,15
+14,14,Crystal Palace,12
+15,14,Newcastle United,12
+16,14,Cardiff City,11
+17,14,Huddersfield Town,10
+18,14,Southampton FC,9
+19,14,Burnley FC,9
+20,14,Fulham FC,8
+1,15,Manchester City,41
+2,15,Liverpool FC,39
+3,15,Tottenham Hotspur,33
+4,15,Chelsea FC,31
+5,15,Arsenal FC,31
+6,15,Everton FC,23
+7,15,AFC Bournemouth,23
+8,15,Manchester United,23
+9,15,Leicester City,22
+10,15,Brighton & Hove Albion,21
+11,15,Watford FC,20
+12,15,Wolverhampton Wanderers,19
+13,15,West Ham United,18
+14,15,Newcastle United,13
+15,15,Crystal Palace,12
+16,15,Cardiff City,11
+17,15,Huddersfield Town,10
+18,15,Southampton FC,9
+19,15,Burnley FC,9
+20,15,Fulham FC,9
+1,16,Liverpool FC,42
+2,16,Manchester City,41
+3,16,Tottenham Hotspur,36
+4,16,Chelsea FC,34
+5,16,Arsenal FC,34
+6,16,Manchester United,26
+7,16,Everton FC,24
+8,16,AFC Bournemouth,23
+9,16,Leicester City,22
+10,16,Wolverhampton Wanderers,22
+11,16,West Ham United,21
+12,16,Watford FC,21
+13,16,Brighton & Hove Albion,21
+14,16,Cardiff City,14
+15,16,Newcastle United,13
+16,16,Crystal Palace,12
+17,16,Burnley FC,12
+18,16,Huddersfield Town,10
+19,16,Southampton FC,9
+20,16,Fulham FC,9
+1,17,Liverpool FC,45
+2,17,Manchester City,44
+3,17,Tottenham Hotspur,39
+4,17,Chelsea FC,37
+5,17,Arsenal FC,34
+6,17,Manchester United,26
+7,17,Wolverhampton Wanderers,25
+8,17,Everton FC,24
+9,17,West Ham United,24
+10,17,Watford FC,24
+11,17,AFC Bournemouth,23
+12,17,Leicester City,22
+13,17,Brighton & Hove Albion,21
+14,17,Newcastle United,16
+15,17,Crystal Palace,15
+16,17,Cardiff City,14
+17,17,Southampton FC,12
+18,17,Burnley FC,12
+19,17,Huddersfield Town,10
+20,17,Fulham FC,9
+1,18,Liverpool FC,48
+2,18,Manchester City,44
+3,18,Tottenham Hotspur,42
+4,18,Chelsea FC,37
+5,18,Arsenal FC,37
+6,18,Manchester United,29
+7,18,Watford FC,27
+8,18,AFC Bournemouth,26
+9,18,Leicester City,25
+10,18,Wolverhampton Wanderers,25
+11,18,Everton FC,24
+12,18,West Ham United,24
+13,18,Brighton & Hove Albion,21
+14,18,Crystal Palace,18
+15,18,Newcastle United,17
+16,18,Southampton FC,15
+17,18,Cardiff City,14
+18,18,Burnley FC,12
+19,18,Huddersfield Town,10
+20,18,Fulham FC,10
+1,19,Liverpool FC,51
+2,19,Tottenham Hotspur,45
+3,19,Manchester City,44
+4,19,Chelsea FC,40
+5,19,Arsenal FC,38
+6,19,Manchester United,32
+7,19,Leicester City,28
+8,19,Everton FC,27
+9,19,West Ham United,27
+10,19,Watford FC,27
+11,19,Wolverhampton Wanderers,26
+12,19,AFC Bournemouth,26
+13,19,Brighton & Hove Albion,22
+14,19,Crystal Palace,19
+15,19,Newcastle United,17
+16,19,Southampton FC,15
+17,19,Cardiff City,15
+18,19,Burnley FC,12
+19,19,Fulham FC,11
+20,19,Huddersfield Town,10
+1,2,Manchester City,6
+2,2,Liverpool FC,6
+3,2,Chelsea FC,6
+4,2,Watford FC,6
+5,2,Tottenham Hotspur,6
+6,2,AFC Bournemouth,6
+7,2,Everton FC,4
+8,2,Leicester City,3
+9,2,Manchester United,3
+10,2,Crystal Palace,3
+11,2,Brighton & Hove Albion,3
+12,2,Newcastle United,1
+13,2,Southampton FC,1
+14,2,Wolverhampton Wanderers,1
+15,2,Burnley FC,1
+16,2,Cardiff City,1
+17,2,Arsenal FC,0
+18,2,Fulham FC,0
+19,2,West Ham United,0
+20,2,Huddersfield Town,0
+1,20,Liverpool FC,54
+2,20,Manchester City,47
+3,20,Tottenham Hotspur,45
+4,20,Chelsea FC,43
+5,20,Arsenal FC,38
+6,20,Manchester United,35
+7,20,Wolverhampton Wanderers,29
+8,20,Leicester City,28
+9,20,Watford FC,28
+10,20,Everton FC,27
+11,20,West Ham United,27
+12,20,AFC Bournemouth,26
+13,20,Brighton & Hove Albion,25
+14,20,Crystal Palace,19
+15,20,Newcastle United,18
+16,20,Cardiff City,18
+17,20,Southampton FC,15
+18,20,Burnley FC,15
+19,20,Fulham FC,14
+20,20,Huddersfield Town,10
+1,21,Liverpool FC,54
+2,21,Manchester City,50
+3,21,Tottenham Hotspur,48
+4,21,Chelsea FC,44
+5,21,Arsenal FC,41
+6,21,Manchester United,38
+7,21,Leicester City,31
+8,21,Watford FC,29
+9,21,Wolverhampton Wanderers,29
+10,21,West Ham United,28
+11,21,Everton FC,27
+12,21,AFC Bournemouth,27
+13,21,Brighton & Hove Albion,26
+14,21,Crystal Palace,22
+15,21,Newcastle United,18
+16,21,Burnley FC,18
+17,21,Cardiff City,18
+18,21,Southampton FC,16
+19,21,Fulham FC,14
+20,21,Huddersfield Town,10
+1,22,Liverpool FC,57
+2,22,Manchester City,53
+3,22,Tottenham Hotspur,48
+4,22,Chelsea FC,47
+5,22,Arsenal FC,41
+6,22,Manchester United,41
+7,22,Watford FC,32
+8,22,Leicester City,31
+9,22,West Ham United,31
+10,22,Everton FC,30
+11,22,Wolverhampton Wanderers,29
+12,22,AFC Bournemouth,27
+13,22,Brighton & Hove Albion,26
+14,22,Crystal Palace,22
+15,22,Burnley FC,21
+16,22,Southampton FC,19
+17,22,Cardiff City,19
+18,22,Newcastle United,18
+19,22,Fulham FC,14
+20,22,Huddersfield Town,11
+1,23,Liverpool FC,60
+2,23,Manchester City,56
+3,23,Tottenham Hotspur,51
+4,23,Chelsea FC,47
+5,23,Arsenal FC,44
+6,23,Manchester United,44
+7,23,Watford FC,33
+8,23,Wolverhampton Wanderers,32
+9,23,Leicester City,31
+10,23,West Ham United,31
+11,23,Everton FC,30
+12,23,AFC Bournemouth,30
+13,23,Brighton & Hove Albion,26
+14,23,Crystal Palace,22
+15,23,Southampton FC,22
+16,23,Burnley FC,22
+17,23,Newcastle United,21
+18,23,Cardiff City,19
+19,23,Fulham FC,14
+20,23,Huddersfield Town,11
+1,24,Liverpool FC,61
+2,24,Manchester City,56
+3,24,Tottenham Hotspur,54
+4,24,Arsenal FC,47
+5,24,Chelsea FC,47
+6,24,Manchester United,45
+7,24,Wolverhampton Wanderers,35
+8,24,Everton FC,33
+9,24,Watford FC,33
+10,24,AFC Bournemouth,33
+11,24,Leicester City,32
+12,24,West Ham United,31
+13,24,Brighton & Hove Albion,26
+14,24,Newcastle United,24
+15,24,Crystal Palace,23
+16,24,Southampton FC,23
+17,24,Burnley FC,23
+18,24,Cardiff City,19
+19,24,Fulham FC,17
+20,24,Huddersfield Town,11
+1,25,Liverpool FC,62
+2,25,Manchester City,59
+3,25,Tottenham Hotspur,57
+4,25,Chelsea FC,50
+5,25,Manchester United,48
+6,25,Arsenal FC,47
+7,25,Wolverhampton Wanderers,38
+8,25,Watford FC,34
+9,25,Everton FC,33
+10,25,AFC Bournemouth,33
+11,25,Leicester City,32
+12,25,West Ham United,32
+13,25,Brighton & Hove Albion,27
+14,25,Crystal Palace,26
+15,25,Newcastle United,24
+16,25,Southampton FC,24
+17,25,Burnley FC,24
+18,25,Cardiff City,22
+19,25,Fulham FC,17
+20,25,Huddersfield Town,11
+1,26,Liverpool FC,65
+2,26,Manchester City,62
+3,26,Tottenham Hotspur,60
+4,26,Manchester United,51
+5,26,Arsenal FC,50
+6,26,Chelsea FC,50
+7,26,Wolverhampton Wanderers,39
+8,26,Watford FC,37
+9,26,Everton FC,33
+10,26,West Ham United,33
+11,26,AFC Bournemouth,33
+12,26,Leicester City,32
+13,26,Crystal Palace,27
+14,26,Brighton & Hove Albion,27
+15,26,Burnley FC,27
+16,26,Newcastle United,25
+17,26,Cardiff City,25
+18,26,Southampton FC,24
+19,26,Fulham FC,17
+20,26,Huddersfield Town,11
+1,27,Liverpool FC,66
+2,27,Manchester City,65
+3,27,Tottenham Hotspur,60
+4,27,Chelsea FC,53
+5,27,Arsenal FC,53
+6,27,Manchester United,52
+7,27,Watford FC,40
+8,27,Wolverhampton Wanderers,40
+9,27,West Ham United,36
+10,27,AFC Bournemouth,34
+11,27,Everton FC,33
+12,27,Leicester City,32
+13,27,Crystal Palace,30
+14,27,Burnley FC,30
+15,27,Newcastle United,28
+16,27,Brighton & Hove Albion,27
+17,27,Cardiff City,25
+18,27,Southampton FC,24
+19,27,Fulham FC,17
+20,27,Huddersfield Town,11
+1,28,Liverpool FC,69
+2,28,Manchester City,68
+3,28,Tottenham Hotspur,60
+4,28,Arsenal FC,56
+5,28,Chelsea FC,56
+6,28,Manchester United,55
+7,28,Wolverhampton Wanderers,40
+8,28,Watford FC,40
+9,28,Everton FC,36
+10,28,West Ham United,36
+11,28,Leicester City,35
+12,28,AFC Bournemouth,34
+13,28,Newcastle United,31
+14,28,Crystal Palace,30
+15,28,Burnley FC,30
+16,28,Brighton & Hove Albion,27
+17,28,Southampton FC,27
+18,28,Cardiff City,25
+19,28,Fulham FC,17
+20,28,Huddersfield Town,14
+1,29,Manchester City,71
+2,29,Liverpool FC,70
+3,29,Tottenham Hotspur,61
+4,29,Chelsea FC,59
+5,29,Manchester United,58
+6,29,Arsenal FC,57
+7,29,Wolverhampton Wanderers,43
+8,29,Watford FC,43
+9,29,West Ham United,39
+10,29,Everton FC,37
+11,29,Leicester City,35
+12,29,AFC Bournemouth,34
+13,29,Crystal Palace,33
+14,29,Newcastle United,31
+15,29,Brighton & Hove Albion,30
+16,29,Burnley FC,30
+17,29,Southampton FC,27
+18,29,Cardiff City,25
+19,29,Fulham FC,17
+20,29,Huddersfield Town,14
+1,3,Liverpool FC,9
+2,3,Tottenham Hotspur,9
+3,3,Chelsea FC,9
+4,3,Watford FC,9
+5,3,Manchester City,7
+6,3,AFC Bournemouth,7
+7,3,Leicester City,6
+8,3,Everton FC,5
+9,3,Arsenal FC,3
+10,3,Crystal Palace,3
+11,3,Fulham FC,3
+12,3,Brighton & Hove Albion,3
+13,3,Manchester United,3
+14,3,Wolverhampton Wanderers,2
+15,3,Cardiff City,2
+16,3,Newcastle United,1
+17,3,Southampton FC,1
+18,3,Burnley FC,1
+19,3,Huddersfield Town,1
+20,3,West Ham United,0
+1,30,Manchester City,74
+2,30,Liverpool FC,73
+3,30,Tottenham Hotspur,61
+4,30,Arsenal FC,60
+5,30,Chelsea FC,60
+6,30,Manchester United,58
+7,30,Wolverhampton Wanderers,44
+8,30,Watford FC,43
+9,30,West Ham United,39
+10,30,Leicester City,38
+11,30,Everton FC,37
+12,30,AFC Bournemouth,37
+13,30,Newcastle United,34
+14,30,Crystal Palace,33
+15,30,Brighton & Hove Albion,33
+16,30,Southampton FC,30
+17,30,Burnley FC,30
+18,30,Cardiff City,28
+19,30,Fulham FC,17
+20,30,Huddersfield Town,14
+1,31,Manchester City,77
+2,31,Liverpool FC,76
+3,31,Tottenham Hotspur,64
+4,31,Arsenal FC,60
+5,31,Chelsea FC,60
+6,31,Manchester United,58
+7,31,Wolverhampton Wanderers,47
+8,31,Watford FC,44
+9,31,West Ham United,42
+10,31,Leicester City,41
+11,31,Everton FC,40
+12,31,AFC Bournemouth,38
+13,31,Newcastle United,35
+14,31,Crystal Palace,33
+15,31,Brighton & Hove Albion,33
+16,31,Southampton FC,31
+17,31,Cardiff City,31
+18,31,Burnley FC,30
+19,31,Fulham FC,17
+20,31,Huddersfield Town,14
+1,32,Manchester City,80
+2,32,Liverpool FC,79
+3,32,Tottenham Hotspur,64
+4,32,Arsenal FC,63
+5,32,Chelsea FC,63
+6,32,Manchester United,61
+7,32,Wolverhampton Wanderers,47
+8,32,Leicester City,44
+9,32,Watford FC,44
+10,32,Everton FC,43
+11,32,West Ham United,42
+12,32,AFC Bournemouth,38
+13,32,Crystal Palace,36
+14,32,Newcastle United,35
+15,32,Southampton FC,34
+16,32,Brighton & Hove Albion,33
+17,32,Burnley FC,33
+18,32,Cardiff City,31
+19,32,Fulham FC,17
+20,32,Huddersfield Town,14
+1,33,Manchester City,83
+2,33,Liverpool FC,82
+3,33,Tottenham Hotspur,67
+4,33,Chelsea FC,66
+5,33,Arsenal FC,63
+6,33,Manchester United,61
+7,33,Wolverhampton Wanderers,50
+8,33,Leicester City,47
+9,33,Watford FC,47
+10,33,Everton FC,46
+11,33,West Ham United,42
+12,33,Crystal Palace,39
+13,33,AFC Bournemouth,38
+14,33,Burnley FC,36
+15,33,Newcastle United,35
+16,33,Southampton FC,34
+17,33,Brighton & Hove Albion,33
+18,33,Cardiff City,31
+19,33,Fulham FC,17
+20,33,Huddersfield Town,14
+1,34,Manchester City,86
+2,34,Liverpool FC,85
+3,34,Tottenham Hotspur,70
+4,34,Arsenal FC,66
+5,34,Chelsea FC,66
+6,34,Manchester United,64
+7,34,Wolverhampton Wanderers,50
+8,34,Leicester City,47
+9,34,Watford FC,47
+10,34,Everton FC,46
+11,34,West Ham United,42
+12,34,AFC Bournemouth,41
+13,34,Crystal Palace,39
+14,34,Burnley FC,39
+15,34,Newcastle United,38
+16,34,Southampton FC,37
+17,34,Brighton & Hove Albion,33
+18,34,Cardiff City,31
+19,34,Fulham FC,20
+20,34,Huddersfield Town,14
+1,35,Manchester City,89
+2,35,Liverpool FC,88
+3,35,Tottenham Hotspur,70
+4,35,Chelsea FC,67
+5,35,Arsenal FC,66
+6,35,Manchester United,64
+7,35,Wolverhampton Wanderers,51
+8,35,Watford FC,50
+9,35,Everton FC,49
+10,35,Leicester City,48
+11,35,West Ham United,43
+12,35,Crystal Palace,42
+13,35,Newcastle United,41
+14,35,AFC Bournemouth,41
+15,35,Burnley FC,40
+16,35,Southampton FC,37
+17,35,Brighton & Hove Albion,34
+18,35,Cardiff City,31
+19,35,Fulham FC,23
+20,35,Huddersfield Town,14
+1,36,Manchester City,92
+2,36,Liverpool FC,91
+3,36,Tottenham Hotspur,70
+4,36,Chelsea FC,68
+5,36,Arsenal FC,66
+6,36,Manchester United,65
+7,36,Wolverhampton Wanderers,54
+8,36,Leicester City,51
+9,36,Everton FC,50
+10,36,Watford FC,50
+11,36,West Ham United,46
+12,36,Crystal Palace,43
+13,36,Newcastle United,42
+14,36,AFC Bournemouth,42
+15,36,Burnley FC,40
+16,36,Southampton FC,38
+17,36,Brighton & Hove Albion,35
+18,36,Cardiff City,31
+19,36,Fulham FC,26
+20,36,Huddersfield Town,14
+1,37,Manchester City,95
+2,37,Liverpool FC,94
+3,37,Chelsea FC,71
+4,37,Tottenham Hotspur,70
+5,37,Arsenal FC,67
+6,37,Manchester United,66
+7,37,Wolverhampton Wanderers,57
+8,37,Everton FC,53
+9,37,Leicester City,51
+10,37,Watford FC,50
+11,37,West Ham United,49
+12,37,Crystal Palace,46
+13,37,AFC Bournemouth,45
+14,37,Newcastle United,42
+15,37,Burnley FC,40
+16,37,Southampton FC,38
+17,37,Brighton & Hove Albion,36
+18,37,Cardiff City,31
+19,37,Fulham FC,26
+20,37,Huddersfield Town,15
+1,38,Manchester City,98
+2,38,Liverpool FC,97
+3,38,Chelsea FC,72
+4,38,Tottenham Hotspur,71
+5,38,Arsenal FC,70
+6,38,Manchester United,66
+7,38,Wolverhampton Wanderers,57
+8,38,Everton FC,54
+9,38,Leicester City,52
+10,38,West Ham United,52
+11,38,Watford FC,50
+12,38,Crystal Palace,49
+13,38,Newcastle United,45
+14,38,AFC Bournemouth,45
+15,38,Burnley FC,40
+16,38,Southampton FC,39
+17,38,Brighton & Hove Albion,36
+18,38,Cardiff City,34
+19,38,Fulham FC,26
+20,38,Huddersfield Town,16
+1,4,Liverpool FC,12
+2,4,Chelsea FC,12
+3,4,Watford FC,12
+4,4,Manchester City,10
+5,4,Tottenham Hotspur,9
+6,4,AFC Bournemouth,7
+7,4,Everton FC,6
+8,4,Leicester City,6
+9,4,Arsenal FC,6
+10,4,Manchester United,6
+11,4,Wolverhampton Wanderers,5
+12,4,Southampton FC,4
+13,4,Fulham FC,4
+14,4,Brighton & Hove Albion,4
+15,4,Crystal Palace,3
+16,4,Cardiff City,2
+17,4,Huddersfield Town,2
+18,4,Newcastle United,1
+19,4,Burnley FC,1
+20,4,West Ham United,0
+1,5,Chelsea FC,15
+2,5,Liverpool FC,15
+3,5,Manchester City,13
+4,5,Watford FC,12
+5,5,AFC Bournemouth,10
+6,5,Tottenham Hotspur,9
+7,5,Arsenal FC,9
+8,5,Manchester United,9
+9,5,Wolverhampton Wanderers,8
+10,5,Everton FC,6
+11,5,Leicester City,6
+12,5,Crystal Palace,6
+13,5,Southampton FC,5
+14,5,Brighton & Hove Albion,5
+15,5,Fulham FC,4
+16,5,West Ham United,3
+17,5,Cardiff City,2
+18,5,Huddersfield Town,2
+19,5,Newcastle United,1
+20,5,Burnley FC,1
+1,6,Liverpool FC,18
+2,6,Manchester City,16
+3,6,Chelsea FC,16
+4,6,Watford FC,13
+5,6,Tottenham Hotspur,12
+6,6,Arsenal FC,12
+7,6,Manchester United,10
+8,6,AFC Bournemouth,10
+9,6,Leicester City,9
+10,6,Wolverhampton Wanderers,9
+11,6,Crystal Palace,7
+12,6,Everton FC,6
+13,6,Brighton & Hove Albion,5
+14,6,Southampton FC,5
+15,6,Fulham FC,5
+16,6,Burnley FC,4
+17,6,West Ham United,4
+18,6,Newcastle United,2
+19,6,Cardiff City,2
+20,6,Huddersfield Town,2
+1,7,Manchester City,19
+2,7,Liverpool FC,19
+3,7,Chelsea FC,17
+4,7,Tottenham Hotspur,15
+5,7,Arsenal FC,15
+6,7,Watford FC,13
+7,7,AFC Bournemouth,13
+8,7,Leicester City,12
+9,7,Wolverhampton Wanderers,12
+10,7,Manchester United,10
+11,7,Everton FC,9
+12,7,Burnley FC,7
+13,7,Crystal Palace,7
+14,7,West Ham United,7
+15,7,Brighton & Hove Albion,5
+16,7,Southampton FC,5
+17,7,Fulham FC,5
+18,7,Newcastle United,2
+19,7,Cardiff City,2
+20,7,Huddersfield Town,2
+1,8,Manchester City,20
+2,8,Chelsea FC,20
+3,8,Liverpool FC,20
+4,8,Arsenal FC,18
+5,8,Tottenham Hotspur,18
+6,8,AFC Bournemouth,16
+7,8,Wolverhampton Wanderers,15
+8,8,Manchester United,13
+9,8,Watford FC,13
+10,8,Leicester City,12
+11,8,Everton FC,12
+12,8,Burnley FC,8
+13,8,Brighton & Hove Albion,8
+14,8,Crystal Palace,7
+15,8,West Ham United,7
+16,8,Southampton FC,5
+17,8,Fulham FC,5
+18,8,Huddersfield Town,3
+19,8,Newcastle United,2
+20,8,Cardiff City,2
+1,9,Manchester City,23
+2,9,Liverpool FC,23
+3,9,Chelsea FC,21
+4,9,Arsenal FC,21
+5,9,Tottenham Hotspur,21
+6,9,AFC Bournemouth,17
+7,9,Watford FC,16
+8,9,Everton FC,15
+9,9,Wolverhampton Wanderers,15
+10,9,Manchester United,14
+11,9,Leicester City,12
+12,9,Brighton & Hove Albion,11
+13,9,Burnley FC,8
+14,9,West Ham United,7
+15,9,Crystal Palace,7
+16,9,Southampton FC,6
+17,9,Cardiff City,5
+18,9,Fulham FC,5
+19,9,Huddersfield Town,3
+20,9,Newcastle United,2
