@@ -4,3 +4,7 @@ I used Flourish Studio (https://flourish.studio/) to craete this visualization. 
 
 1) first step was to scrape each week points table for premier league from worldfootball.net (https://www.worldfootball.net/schedule/eng-premier-league-2018-2019-spieltag) website. I used python BeautifuSoup package to scrape data and then formatted it into proper format so i can use that on flourish.
 2) I uploaded scraped dataset on flourish site and with available template created this bar chart race for premier league teams
+
+Bar chart race - https://public.flourish.studio/visualisation/432435/
+
+![alt text](https://github.com/Ajinkya45/premier_league_title_race/blob/master/Premier%20League%20Title%20Rcae%202018_19.jpeg)
